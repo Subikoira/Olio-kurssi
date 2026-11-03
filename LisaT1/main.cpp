@@ -18,5 +18,9 @@ int main()
     objCar2=nullptr;
 
 
+    //luodaan olio kekoon smartpointterilla
+    unique_ptr<Car> objCar3=make_unique<Car>("Ransitti","Sellanen avolava tai jokin",2005);
+    objCar3->disblay();
+
     return 0;
 }
