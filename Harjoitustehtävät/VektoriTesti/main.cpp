@@ -7,7 +7,7 @@ int main()
     vector<int> luvutVektori;
     int luku=1;
     while(luku != 99){
-        cout<<"Anna luku 1-10 (Lopeta antamalla 99)"<<endl;
+        cout<<"Anna luku 1-10 (Lopeta antamalla "99)"<<endl;
         cin>>luku;
         //Lisätään annettu luku vektoriin
         luvutVektori.push_back(luku);
