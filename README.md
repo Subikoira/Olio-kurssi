@@ -1,1 +1,1 @@
-# OAMK
+# Olio-kurssi
