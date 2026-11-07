@@ -1,0 +1,8 @@
+LÄHTEET
+
+Alaluukas, P. 2026. C++-ohjelmointimateriaali. Peatutor.
+Luettavissa: https://peatutor.com/cplus/.
+Luettu: 7.11.2026.
+
+Microsoft 2026. Microsoft Copilot.
+Käytetty ohjelmointitehtävien ohjaukseen ja virheiden tarkistamiseen.
